@@ -10,6 +10,7 @@ import { Component } from '@angular/core';
     </nav>
     <router-outlet></router-outlet>
     `
+    
 })
 export class AppComponent {
     title = 'Heroes';
